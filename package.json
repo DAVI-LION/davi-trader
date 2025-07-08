@@ -1,5 +1,5 @@
 {
-  "name": "davi-trader",
+  "name": "davi-trader-full",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",

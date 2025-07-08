@@ -1,3 +1,3 @@
 # DAVI Trader App
 
-Aplicativo de gestão de operações com geração de sinais técnicos automáticos.
+Painel funcional com sinal inteligente e histórico de operações.
