@@ -1,3 +1,4 @@
 # DAVI Trader App
 
-Aplicativo React com estrutura padrão Vite + src/, pronto para deploy no Vercel.
+Aplicativo funcional com React + Vite pronto para Vercel.
+A estrutura segue o padrão src/, com build automático.
